@@ -1,0 +1,25 @@
+
+.resumelistheading {
+   font-weight: bold;
+   font-style: normal;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+
+.homebgn {
+   background-color: #e7d6c6;
+   background-position: center;
+}
+
+li { 
+   font-weight: normal;
+   font-family:'Times New Roman', Times, serif;
+}
+
+a {
+   color: #745e59;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
